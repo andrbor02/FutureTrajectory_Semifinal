@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">FutureTrajectory_Semifinal</string>
+    <string name="app_name">Сервисы ВК</string>
+
+    <string name="exit_description">Exit to film list</string>
+    <string name="error_try_again_later">Error. Try again?</string>
+    <string name="service_name">Название сервиса</string>
+
 </resources>
